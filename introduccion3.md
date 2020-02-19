@@ -1,10 +1,15 @@
-# Introducción3: {#introducci-n3}
+# Introducción: {#introducci-n3}
+
+
+“Participa, diseña, y aprende”: Metodología colaborativa en el aula
+
+![](images2/image15.jpg)
 
 Durante los cursos 2015-16 y 2016-17 realicé, en colaboración con estudiantes que realizaban su TFG (Trabajo Fin de Grado), encuestas dirigidas al alumnado y sus docentes, sobre el servicio formativo que ofrecía para jóvenes estudiantes.
 
-Todos los chicos y chicas de ESO y Bachillerato que participaron en nuestras actividades durante esos dos cursos, contestaron a las encuestas de valoración de las actividades dándonos muchas pistas para ir mejorandolas.
+Todos los chicos y chicas de ESO y Bachillerato que participaron en nuestras actividades durante esos dos cursos, contestaron a las encuestas de valoración de las actividades dándonos muchas pistas para ir mejorándolas.
 
-Lo que más me llamó la atención del resultado de la investigación fue que prácticamente en todos los cuestionarios se repetía la misma palabra una y otra vez: participación. ¿Qué es lo que más te ha gustado de la actividad?: “Que he podido participar”. ¿Qué es lo que te gustaría mejorar de la actividad? “Más participación”
+Lo que más me llamó la atención del resultado de la investigación fue que prácticamente en todos los cuestionarios se repetía la misma palabra una y otra vez: **participación**. ¿Qué es lo que más te ha gustado de la actividad?: “Que he podido participar”. ¿Qué es lo que te gustaría mejorar de la actividad? “Más participación”
 
 Una cosa me quedó clara, ellos y ellas no quieren ser sujetos pasivos, quieren ser protagonistas.
 
@@ -18,7 +23,7 @@ Además, puede aplicarse con alumnado o con toda la comunidad educativa.
 
 Dependerá de vuestros objetivos y de cómo la apliquéis o la vayáis integrando en vuestro día a día, proyectos, programas de innovación, etc. tendrá más o menos alcance.
 
-![](images/image28.jpg)
+![](images2/image28.jpg)
 
 Para empezar a trabajar en el aula necesitamos unos recursos. No son costosos ni difíciles de conseguir. Reflexionar sobre ellos nos ayudará a interiorizar que tipo de dinámicas vamos a ir construyendo.
 
@@ -32,28 +37,30 @@ Todo este “entrenamiento” favorecerá que este modo de pensar, de abordar lo
 
 Para ilustrar este recorrido por los niveles de aplicación, mostraré diferentes casos de éxito de su aplicación en centros educativos.
 
-Contenidos:
+**Contenidos**:
 
-Recursos
+- Recursos
 
-Principios: decálogo
+- Principios: decálogo
 
-Metodología
+- Metodología
 
-Niveles de aplicación
+- Niveles de aplicación
 
-Resultados. Casos de éxito
+- Resultados. Casos de éxito
 
-Ejercicio de 2 minutos:
+---
+
+**Ejercicio de 2 minutos:**
 
 Si miras a tu alrededor te darás cuenta que tenemos muchos materiales y recursos para trabajar. A lo mejor no tienes una impresora 3D, o una cabina de pintura…, pero podemos hacer mucho con lo que nos rodea, ¿no crees?
 
-¿Tienes material a tu disposición para diseñar? Haz una lista, probablemente será larga!
+**¿Tienes material a tu disposición para diseñar? **Haz una lista, probablemente será larga!
 
 O quizás no necesites mucho!
 
-![](images/image19.jpg)
+![](images2/image19.jpg)
 
-“ Hay un montón de problemas en la educación hoy…, pero cada uno de estos problemas puede verse como una oportunidad”
+**_“ Hay un montón de problemas en la educación hoy…, pero cada uno de estos problemas puede verse como una oportunidad”_**
 
 DT para educadores. IDEO

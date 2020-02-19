@@ -1,4 +1,4 @@
-# Principios3: {#principios3}
+# Principios: decálogo {#principios3}
 
 Estos principios podrán construirse poco a poco por parte de toda la comunidad educativa.
 
